@@ -5,4 +5,5 @@ if x1=="Y":
     print("You chose to proceed")
 else:
     print("You quit the demo")
-input()
+print("I am a change")
+print("Hong Kong Productivity Council")
