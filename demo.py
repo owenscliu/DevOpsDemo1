@@ -1,5 +1,5 @@
 print("DEMO Program v1.0")
 print("Welcome!")
-print("Changes have been made")
+print("NEW")
 print("Hong Kong Productivity Council")
 print("Written by Owen")
